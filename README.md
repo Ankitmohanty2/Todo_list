@@ -1,6 +1,6 @@
 ## Todo-X | To Do List - React App
 
-### [Demo Link](https://todo-x.netlify.app/) 🔗
+### [Demo Link]todo-list-kjp0cr9dk-ankittap2001.vercel.app🔗
 
 A React Task Management App which performs all the CRUD operations.
 <br/>
@@ -25,7 +25,7 @@ A React Task Management App which performs all the CRUD operations.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **Ankit Mohanty** - **[Portfolio Website](https://portfolio-kdt0y8tz0-ankittap2001.vercel.app/)**, **[Linkedin](https://www.linkedin.com/in/ankit-mohanty-3036ba209/)**
 
 <br/>
 
