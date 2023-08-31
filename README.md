@@ -1,6 +1,6 @@
 ## Todo-X | To Do List - React App
 
-### [Demo Link](todo-list-kjp0cr9dk-ankittap2001.vercel.app)🔗
+### [Demo Link](https://todo-list-henna-ten.vercel.app/)🔗
 
 A React Task Management App which performs all the CRUD operations.
 <br/>
